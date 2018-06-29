@@ -6,6 +6,11 @@
 基金投资盈亏表
 </head>
 <body>
+<form action="/jijin" method="post"  content="jijin">
+<%--<input id="k" name="k">--%>
+    <button type="submit">提交k值</button>
+
+</form>
 <span>a</span>
 <%--<div id="main"  style="width: 900px;height:600px;"></div>--%>
 <span>k-fn</span>
